@@ -41,5 +41,5 @@ func Example(file string, pdfFile string) error {
 		return err
 	}
 
-		return nil
-	}
+	return nil
+}
